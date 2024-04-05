@@ -1,0 +1,1 @@
+This repo is a small RAG project that aims to automate the processing of files for data analysis purposes
